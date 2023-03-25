@@ -1,0 +1,32 @@
+
+    
+
+.one{
+    margin: 0% 5% 0% 5%;
+}
+table{
+    
+    margin: 0;
+}
+td{
+    padding: 3%;
+}
+body {
+    background-color: antiquewhite;
+
+}
+h3 {
+    text-align: center;
+}
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px #ccc;
+    height: 400px;
+    width: 700px;
+    text-align: center;
+    margin-left: 305px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+  }
